@@ -52,12 +52,12 @@
 ---
 
 ### :mailbox: How to reach me :
-[<img src='https://img.icons8.com/color/344/gmail-new.png' alt='Email' height='50'>](mailto:tarekmohamed1919@gmail.com)
-[<img src='https://img.icons8.com/fluency/344/linkedin.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/tarek-mohamed-bb3b24232/)
-[<img src='https://cdn-icons-png.flaticon.com/512/2111/2111628.png' alt='stackoverflow' height='50'>](https://stackoverflow.com/users/19238933/tarek-mohamed)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='50'>](https://github.com/TarekMohame-d)
-[<img src='https://img.icons8.com/fluency/344/facebook-new.png' alt='Facebook' height='50'>](https://www.facebook.com/tarek.teto.16100)
-[<img src='https://img.icons8.com/color/344/twitter--v1.png' alt='Twitter' height='50'>]()
+[<img src='https://img.icons8.com/color/344/gmail-new.png' title="Email" alt='Email' height='50'>](mailto:tarekmohamed1919@gmail.com)
+[<img src='https://img.icons8.com/fluency/344/linkedin.png' title="linkedin" alt='linkedin' height='50'>](https://www.linkedin.com/in/tarek-mohamed-bb3b24232/)
+[<img src='https://cdn-icons-png.flaticon.com/512/2111/2111628.png' title="stackoverflow" alt='stackoverflow' height='50'>](https://stackoverflow.com/users/19238933/tarek-mohamed)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' title="GitHub" alt='GitHub' height='50'>](https://github.com/TarekMohame-d)
+[<img src='https://img.icons8.com/fluency/344/facebook-new.png' title="Facebook" alt='Facebook' height='50'>](https://www.facebook.com/tarek.teto.16100)
+[<img src='https://img.icons8.com/color/344/twitter--v1.png' title="Twitter" alt='Twitter' height='50'>]()
 
 ---
 
@@ -70,4 +70,5 @@
 ### 🏆 Github Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=TarekMohame-d&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+### 🔤 Most used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarekMohame-d&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
