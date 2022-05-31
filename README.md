@@ -55,10 +55,10 @@
 ---
 
 ### :mailbox: How to reach me :
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg' alt='Email' height='40'>](mailto:tarekmohamed1919@gmail.com)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tarek-mohamed-bb3b24232/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/TarekMohame-d)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='40'>](https://www.facebook.com/tarek.teto.16100)
+[<img src='https://img.icons8.com/color/344/gmail-new.png' alt='Email' height='50'>](mailto:tarekmohamed1919@gmail.com)
+[<img src='https://img.icons8.com/fluency/344/linkedin.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/tarek-mohamed-bb3b24232/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='50'>](https://github.com/TarekMohame-d)
+[<img src='https://img.icons8.com/fluency/344/facebook-new.png' alt='Facebook' height='50'>](https://www.facebook.com/tarek.teto.16100)
 
 ---
 
