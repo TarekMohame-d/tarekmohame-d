@@ -2,27 +2,24 @@
   <img src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" width="200" style="border-radius:50%"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/tarek-mohamed-bb3b24232/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" title="LinkedIn" alt="LinkedIn"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/stack overflow-orange?style=for-the-badge&logo=stack overflow&logoColor=white" alt="stack overflow Badge"/>
+  <a href="https://stackoverflow.com/users/19238933/tarek-mohamed">
+    <img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" title="Stack Overflow" alt="Stack Overflow"/>
   </a>
     <a href="https://www.facebook.com/tarek.teto.16100">
-    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/facebook-blue?style=flat&logo=facebook&logoColor=white" title="Facebook" alt="Facebook"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=tarekmohame-d&style=flat-square&color=blue" alt=""/>
   <h1>
   Hi there, I'm Tarek Mohamed
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+    <p align="center">
+      <a ><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=30&duration=3500&lines=Welcome+to+my+github+profile."></a>
+    </p>
+  </h1>
 </div>
-
-<!---
-<div align="center">
-  <img src="https://i.postimg.cc/VLy02jt9/Hello-World-I-m-Tarek.png" width="auto" style="border-radius:50%"/>
-</div>
---->
 
 ---
 
@@ -35,7 +32,7 @@
 ---
 
 ### :hourglass_flowing_sand: I’m currently learning :
-- App development using Flutter <a href="https://flutter.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="15px"/></a>
+- App development using Flutter <a href="https://flutter.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="20px"/></a>
 
 ---
 
@@ -57,8 +54,10 @@
 ### :mailbox: How to reach me :
 [<img src='https://img.icons8.com/color/344/gmail-new.png' alt='Email' height='50'>](mailto:tarekmohamed1919@gmail.com)
 [<img src='https://img.icons8.com/fluency/344/linkedin.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/tarek-mohamed-bb3b24232/)
+[<img src='https://cdn-icons-png.flaticon.com/512/2111/2111628.png' alt='stackoverflow' height='50'>](https://stackoverflow.com/users/19238933/tarek-mohamed)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='50'>](https://github.com/TarekMohame-d)
 [<img src='https://img.icons8.com/fluency/344/facebook-new.png' alt='Facebook' height='50'>](https://www.facebook.com/tarek.teto.16100)
+[<img src='https://img.icons8.com/color/344/twitter--v1.png' alt='Twitter' height='50'>]()
 
 ---
 
