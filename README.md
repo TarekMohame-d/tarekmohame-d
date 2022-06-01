@@ -13,8 +13,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=tarekmohame-d&style=flat-square&color=blue" alt=""/>
   <h1>
-  Hi there, I'm Tarek Mohamed
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi there, I'm Tarek Mohamed :wave:
     <p align="center">
       <a ><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=30&duration=3500&lines=Welcome+to+my+github+profile."></a>
     </p>
