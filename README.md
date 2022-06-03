@@ -7,7 +7,7 @@
   <a href="https://stackoverflow.com/users/19238933/tarek-mohamed" target="_blank">
     <img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" title="Stack Overflow" alt="Stack Overflow"/>
   </a>
-    <a href="https://www.facebook.com/tarek.teto.16100">
+    <a href="https://www.facebook.com/tarek.teto.16100" target="_blank">
     <img src="https://img.shields.io/badge/facebook-blue?style=flat&logo=facebook&logoColor=white" title="Facebook" alt="Facebook"/>
   </a>
 </div>
