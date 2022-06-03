@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" width="200" style="border-radius:50%"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/tarek-mohamed-bb3b24232/">
+  <a href="https://www.linkedin.com/in/tarek-mohamed-bb3b24232/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" title="LinkedIn" alt="LinkedIn"/>
   </a>
-  <a href="https://stackoverflow.com/users/19238933/tarek-mohamed">
+  <a href="https://stackoverflow.com/users/19238933/tarek-mohamed" target="_blank">
     <img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" title="Stack Overflow" alt="Stack Overflow"/>
   </a>
     <a href="https://www.facebook.com/tarek.teto.16100">
