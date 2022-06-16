@@ -56,7 +56,7 @@
 [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111628.png' title="stackoverflow" alt='stackoverflow' height='50'>](https://stackoverflow.com/users/19238933/tarek-mohamed)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' title="GitHub" alt='GitHub' height='50'>](https://github.com/TarekMohame-d)
 [<img src='https://img.icons8.com/fluency/344/facebook-new.png' title="Facebook" alt='Facebook' height='50'>](https://www.facebook.com/tarek.teto.16100)
-[<img src='https://img.icons8.com/color/344/twitter--v1.png' title="Twitter" alt='Twitter' height='50'>]()
+[<img src='https://img.icons8.com/color/344/twitter--v1.png' title="Twitter" alt='Twitter' height='50'>](https://twitter.com/TarekMohame_d)
 
 ---
 
