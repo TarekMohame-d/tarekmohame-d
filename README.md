@@ -44,7 +44,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" title="SQL" **alt="SQL" width="35" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/color/344/git.png" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://telegra.ph/file/70cb08a30519bdfbd056d.png" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
