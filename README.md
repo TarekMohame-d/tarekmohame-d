@@ -25,7 +25,7 @@
 ### :man_technologist: About Me :
 #### I am a junior software engineer, passionate to try new technologies.
 
-- 📚  Studying Computer Science at FCIS - ASU year 2.
+- 📚  Studying Computer Science at FCIS - ASU year 3.
 - 📌  Lives in Cairo, Egypt.
 
 ---
