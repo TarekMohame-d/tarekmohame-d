@@ -22,8 +22,8 @@
 <div>
       <p>
         I'm a Junior Software Engineer with a strong passion for Mobile App Development 📱, currently focusing on mastering Flutter and Dart to build dynamic, high-quality mobile applications. 🚀<br><br>
-        I’m actively learning Android Native Development using Kotlin and Jetpack Compose to broaden my expertise in mobile development. 🌟<br>
-        Additionally, I’m planning to learn ASP.NET to expand my knowledge in backend development. 💻<br><br>
+        I'm also diving deep into backend development using ASP.NET Web API, aiming to create robust, scalable, and secure APIs that power modern web and mobile applications. 💻🔧<br><br>
+        By combining Flutter on the front end and ASP.NET on the back end, I'm working towards becoming a well-rounded full-stack developer.<br><br>
         Eager to learn new technologies and continuously improve my skills, I’m committed to delivering exceptional user experiences through innovative app development. 📚🌱</p>
         <ul>
           <li>📚 Fresh graduate Computer Science at FCIS-ASU.</li>
